@@ -1,0 +1,13 @@
+com\acn\manu\wsimpl\AllRegions.class
+com\acn\manu\wsimpl\RegionByNameResponse.class
+com\acn\manu\wsimpl\DtoResponseRegion.class
+com\acn\manu\wsimpl\RegionWSImpl.class
+com\acn\manu\wsimpl\AllRegionsResponse.class
+com\acn\manu\simpleregionsclient\SimpleRegionsClient.class
+com\acn\manu\wsimpl\Regions.class
+com\acn\manu\wsimpl\RegionWSImpl_Service.class
+com\acn\manu\wsimpl\RegionByID.class
+com\acn\manu\wsimpl\package-info.class
+com\acn\manu\wsimpl\RegionByName.class
+com\acn\manu\wsimpl\RegionByIDResponse.class
+com\acn\manu\wsimpl\ObjectFactory.class
